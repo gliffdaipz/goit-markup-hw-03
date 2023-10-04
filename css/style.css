@@ -1,0 +1,132 @@
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.link-list {
+    list-style-type: none;
+    margin-top: -15px;
+    padding: 0;
+   
+    }
+
+
+.studio:hover, 
+.portfolio:hover, 
+.contacts:hover, 
+.header-web:hover,
+.footer-web:hover {
+    color: red;
+}
+
+.studio,
+.portfolio, 
+.contacts,
+.website,
+.number {
+    
+    display: inline-block;
+   margin-top:35px;     
+}
+#header {
+    border-width: 3px 0px 50px 0px;
+   /* border: 1px solid #c3c3c3;*/
+    display: flex;
+       
+       justify-content: center;
+}
+span.a,
+span.b,
+span.c,
+span.d,
+span.e{
+
+            display: inline-block;
+            width: 100px;
+           
+            padding: 5px;
+            border: 1px solid blue;
+            background-color: yellow;
+          
+}
+
+.infocontact-list {
+    list-style-type: none;
+    margin-top: -15px;
+    padding: 0;
+}
+
+.website, 
+.number {
+    color: black;
+    font-weight: normal;
+}
+
+.website:hover, 
+.number:hover {
+    color: blue;
+}
+
+.h2 {
+    text-align: center;
+    border: 3px solid rgb(58, 59, 59);
+    background-color: rgb(54, 53, 75);
+    color: white;
+    font-size: 30px;
+    border-width: 3px 0px 50px 0px;
+
+}
+
+.oderservice-nav {
+    margin-top: -45px;
+}
+
+.btn {
+    background-color: #615fcf;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 1px 5px 0px 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #26bcee;
+    color: white;
+}
+
+.orderservice-lists,
+.img-list {
+    list-style-type: none;
+    padding: 0;
+
+}
+
+.para {
+    text-align: center;
+}
+
+.footer-nav {
+    border: 3px solid rgb(58, 59, 59);
+    background-color: rgb(54, 53, 75);
+    color: white;
+    border-width: 0px 0px 0px 0px;
+}
+
+img.d1,
+p.d1 {
+    margin-left: -10px;
+}
+ 
